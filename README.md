@@ -148,12 +148,12 @@ Para compilar e executar o projeto, siga os passos:
 
 ### Verificação:
 bash
-# Confira se o arquivo está correto (primeiras linhas):
+- Confira se o arquivo está correto (primeiras linhas):
 head -n 5 dataset/ratings.csv
-# Saída esperada:
-# userId,movieId,rating,timestamp
-# 1,296,5.0,1147880044
-# 1,306,3.5,1147868817
+- Saída esperada:
+| userId,movieId,rating,timestamp
+| 1,296,5.0,1147880044
+| 1,306,3.5,1147868817
   
 4.**Estrutura de Diretórios**:
 
