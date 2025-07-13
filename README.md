@@ -144,12 +144,12 @@ Para compilar e executar o projeto, siga os passos:
 ### Passos:
 1. *Acesse o link acima*  
 2. *Clique em "ml-25m.zip"* (≈250MB)  
-3. **Extraia o arquivo ratings.csv** para a pasta /dataset do seu projeto
+3. **Extraia o arquivo ratings.csv** para a pasta /datasets do seu projeto
 
 ### Verificação:
 bash
 - Confira se o arquivo está correto (primeiras linhas):
-head -n 5 dataset/ratings.csv
+head -n 5 datasets/ratings.csv
 - Saída esperada:
 
 ```
