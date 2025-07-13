@@ -135,7 +135,7 @@ Para compilar e executar o projeto, siga os passos:
 
 ## Onde Baixar o Dataset
 
-⚠ *Use EXATAMENTE este dataset oficial para garantir consistência nos testes:*  
+ *Use EXATAMENTE este dataset oficial para garantir consistência nos testes:*  
 
 - [![Site Oficial](https://img.shields.io/badge/🌐_Site_Oficial-blue?style=for-the-badge&logo=gatsby)](https://grouplens.org/datasets/movielens/25m/)  
 - [![Download Direto](https://img.shields.io/badge/⬇_Download_Direto-green?style=for-the-badge&logo=go-download)](https://files.grouplens.org/datasets/movielens/ml-25m.zip) (≈250 MB)  
